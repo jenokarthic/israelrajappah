@@ -1,0 +1,22 @@
+title: What People say about us
+subtitle:  Our customer love us
+slides: 
+  - name: slide 1
+    img: slider_one.jpg
+    slideTitle: Hi This is test
+    slideSubtitle: Subtitle 
+    linkTo: contact
+    linkText: Read more
+  - name: slide 2
+    img: slider_two.jpg
+    slideTitle: 
+    slideSubtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra.
+    linkTo: 
+    linkText: 
+  - name: slide 3
+    img: slider_three.jpg
+    slideTitle: 
+    slideSubtitle: 
+    linkTo: 
+    linkText: 
+  

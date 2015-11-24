@@ -1,0 +1,11 @@
+title: Our Image gallary
+photos:
+  - title: Photo 1
+    image: wallpaper-1.jpg
+  - title: Photo 2
+    image: wallpaper-2.jpg
+  - title: Photo 3
+    image: wallpaper-3.jpg
+  - title: Photo 1
+    image: wallpaper-4.jpg
+        

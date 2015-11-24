@@ -1,0 +1,97 @@
+boxedlayout: false
+navbaroverlay: false
+#background only work when boxedlayout is true.
+background: 
+lead:
+    left:
+        title: Vision 
+        image: images/blog/vission.jpg
+        block_text:  > # Mattews 28:19 :- “therefore go and make disciples of all nations"
+		 our vision is to reach the unreached and to conquer the world with the Love of Christ to execute the love of Christ not by words but by Action.
+        section:
+        tag:
+        menu: 
+        html: 
+        link: 
+    mid:
+        title: Mission
+        image: images/blog/times.jpg 
+        block_text:  > # Touching lives,by spreading the love of christ through preaching the Gospel,delivering from spiritual & physical
+		 obstacles,spreading the light of knowledge and by Rendering a helping hand.
+        section:
+        tag:
+        menu:
+        html:
+        link:
+    right:
+        title: Location
+        image: 
+        block_text:  
+        section:
+        tag:
+        menu:
+        html: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d843.9220666052846!2d78.03926929922757!3d9.93609106611961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x39430cc9140d810e!2sevangel+A.Gchurch!5e1!3m2!1sen!2sin!4v1446044661060" width="330" height="220" frameborder="0" style="border:0" allowfullscreen></iframe>
+        link:
+mid:
+    left:
+        title: Our Gallery
+        image:
+        block_text:
+        section: gallery
+        menu:
+        html:    
+        count: 1
+    main:
+        title: Recent Events
+        section: events
+        count: 3 
+trail:
+    left:
+        title: Recent Blog
+        image:
+        block_text:
+        section: blog
+        menu:
+        html:   
+        count: 1 
+    mid:
+        title: Our Community
+        image:
+        block_text:
+        section: blog
+        menu:
+        html:   
+        count: 5 
+    right:
+        title: Recent Sermons...
+        image:
+        block_text:
+        section: videos
+        menu:
+        html:   
+        count: 5
+footer:
+    left:
+        title: Divine School
+        image:
+        block_text: Started in the year 1999 with only 5 children, DNPS, aims to give free education to the children from unprivileged circumstances.
+        section:
+        menu:
+        html: <a href="divine_school">Read more...</a>   
+    mid:
+        title: Arise & Thresh Women’s Ministry
+        image:
+        block_text: “Rise & Thresh daughter Zion,”Micah 4:!3.A non-church biased ministry,with a vision to steer,under privileged women to Christ,As per her calling ,Rev.Juliet jasline ministers
+        section: events
+        menu:
+        html: <a href="women_ministry">Read more...</a> 
+        count: 5
+    right:        
+        title: Missionary Page
+        image:
+        block_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra.
+        section:
+        menu:
+        html: <div class="input-group" id="abId0.1624516201615075" abineguid="FF304967598E42DB8E2D15D4E5B4C550"><span class="input-group-addon">@</span><input type="text" class="form-control"><span class="input-group-btn"><button type="button" class="btn btn-primary">Go!</button></span></div>
+bottom:
+    menu: main            

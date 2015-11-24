@@ -1,0 +1,40 @@
+baseurl: "http://demo.evangelagmadurai.org/"
+languageCode: "en-us"
+title: Evangel AG
+MetaDataFormat: yaml
+canonifyurls: true
+disqusShortname: jenokarthic
+SectionPagesMenu: "main"
+Paginate: 12
+params: 
+    description: For the word of God is living and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; it judges the thoughts and attitudes.
+    designedby: Designed by <a href="http://www.jeno.in">Jeno</a>
+    analytics_google: UA-123123123
+    email: contact@http://israelrajappah.com/
+    address: 
+      - Ephphatha Church of Divine,
+      - 10/48 Bharathi nagar,
+	  - Kalveeram palayam,
+      - Coimbatore 641046.
+      - Tamil Nadu, INDIA.
+    phonenumbers: +91-04222424759
+    mobilenumbers: +91-9443060497
+    map:
+        lat: 9.91681528853456
+        long: 78.10069081904908
+        height: 600
+        width: 100%
+    footermid:
+        video: 12391923123
+        title: test
+    social:
+        facebook: jenokarthic
+        twitter: jenokarthic
+        youtube: jenokarthic
+    portfolio:
+        title: Portfolio
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam
+        keys:
+           - Meeting
+           - Tour
+           - Events
