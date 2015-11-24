@@ -6,7 +6,7 @@ lead:
     left:
         title: Vision 
         image: images/blog/vission.jpg
-        block_text:  > #
+        block_text: test
         section:
         tag:
         menu: 
