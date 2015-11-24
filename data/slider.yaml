@@ -3,10 +3,10 @@ subtitle:  Our customer love us
 slides: 
   - name: slide 1
     img: slider_one.jpg
-    slideTitle: Hi This is test
+    slideTitle: Rev. Israel J Rajappah & Family
     slideSubtitle: Subtitle 
     linkTo: contact
-    linkText: Read more
+    linkText: <a href="about">Read more...</a> 
   - name: slide 2
     img: slider_two.jpg
     slideTitle: 
