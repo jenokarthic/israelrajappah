@@ -3,14 +3,14 @@ subtitle:  Our customer love us
 slides: 
   - name: slide 1
     img: slider_one.jpg
-    slideTitle: Rev. Israel J Rajappah & Family
-    slideSubtitle: Subtitle 
+    slideTitle: Edro Mission
+    slideSubtitle: Rev. Israel J Rajappah 
     linkTo: contact
-    linkText: <a href="about">Read more...</a> 
+    linkText: 
   - name: slide 2
     img: slider_two.jpg
-    slideTitle: 
-    slideSubtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra.
+    slideTitle: Mattews 28:19
+    slideSubtitle: Therefore go and make disciples of all nations
     linkTo: 
     linkText: 
   - name: slide 3
