@@ -6,16 +6,16 @@ menu: main
 weight: -100
 lead: This is the lead 
 ---
-Evangel Assembly of God Church (EAGC) is an integral part of the Tamil District Council of South India Assembly of God.
- 
-
-EAGC is a Bible believing, Pentecostal Church and adheres with the doctrinal beliefs of the Assemblies of God. 
-
- 
-EAGC are a congregation of about 350 members gather together every Sunday.
-	
-	
-Doctrinally we are well balanced and give equal importance to worship and word.  We actively involved in Missions world, besides having various types of Ministries locally. 
+Born in a traditional Christian family, as the 11 th child to her parents, Rev.Juliet Jasline was raised in a orphanage in Hindustan bible institute.
+She accepted the Lord Jesus as her savior and had committed her life for him since 8 yrs of age.
+She graduated her schooling and subjugated her life to the will of God and joined in Youth with a mission organization to complete her discipleship training course at the age of 17.
 
 
-EAGC Teach Christian living through our church services, EAGC caters to the spiritual need of both the new comers and the matured believers alive.                         
+After completing her course , she joined to work and to minister among Children with Bible center ministries by which she ministered in various schools and colleges ,turning young souls to Christ.
+
+
+She also ministered among women and in churches from the age of 19.
+She is a wonderful singer who has composed many spiritual songs which revive the soul.
+She continues to Pastor and to lead the mission with much sincerity and ableness.
+She also takes care of Divine nursery and Primary school with much love and obligations
+As per her vision, Arise and Thresh a unit of Edro mission for women, is successfully progressing forward.
