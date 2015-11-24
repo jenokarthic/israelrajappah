@@ -1,13 +1,16 @@
 ---
 date: 2015-10-03T19:58:41+05:30
-title: Gospel Sermon Christmas 2014 
+title: Kaalam Saelum - Divine Love
 key: bootstrap songs
-lead: test this is lead
+lead: Kaalam Saelum - Divine Love
 img: two.jpg
 thumbimg: two.jpg
-video: lqlN_vn0-HA
+video: WJudD_FrmBw
 ---
 
-Pastor manoj message nagamalai AG Church
+Songs : Kaalam Saelum
+Album: Divine Love
+Sung: John Divineson Israel
+www.christsquare.com
 
 <!--more-->
