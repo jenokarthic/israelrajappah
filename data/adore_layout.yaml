@@ -61,7 +61,7 @@ trail:
         html:   
         count: 5 
     right:
-        title: Recent Sermons...
+        title: Recent Videos
         image:
         block_text:
         section: videos
