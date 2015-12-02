@@ -3,6 +3,7 @@ date: 2019-07-01T12:43:16+05:30
 title: About Us
 author: admin
 menu: main
+img: 2111.jpg
 weight: -100
 lead: This is the lead 
 ---
