@@ -20,8 +20,8 @@ params:
     phonenumbers: +91-04222424759
     mobilenumbers: +91-9443060497
     map:
-        lat: 9.91681528853456
-        long: 78.10069081904908
+        lat: 11.033730
+        long: 76.888242
         height: 600
         width: 100%
     footermid:
