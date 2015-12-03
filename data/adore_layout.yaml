@@ -70,14 +70,14 @@ trail:
         count: 5
 footer:
     left:
-        title: Divine School
+        title: Arise & Thresh Women’s Ministry
         image:
         block_text: Started in the year 1999 with only 5 children, DNPS, aims to give free education to the children from unprivileged circumstances.
         section:
         menu:
         html: <a href="divine_school">Read more...</a>   
     mid:
-        title: Arise & Thresh Women’s Ministry
+        title: Divine School
         image:
         block_text: Started in the year 1999 with only 5 children, DNPS, aims to give free education to the children from unprivileged circumstances.
         section: 
