@@ -41,14 +41,14 @@ mid:
         count: 1
     main:
         title: Recent Events
-        section: videos
+        section: events
         count: 3 
 trail:
-    left:
-        title: 
+    main:
+        title: Our videos
         image:
         block_text:
-        section: 
+        section: videos
         menu:
         html:   
         count: 3 
