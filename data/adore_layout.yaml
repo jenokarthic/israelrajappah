@@ -64,7 +64,7 @@ trail:
         title: Recent Videos
         image:
         block_text:
-        section: videos
+        section: gallery
         menu:
         html:   
         count: 5
