@@ -41,7 +41,7 @@ mid:
         count: 1
     main:
         title: Recent Events
-        section: events
+        section: videos
         count: 3 
 trail:
     left:
