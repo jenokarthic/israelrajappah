@@ -45,10 +45,10 @@ mid:
         count: 3 
 trail:
     left:
-        title: Recent Blog
+        title: Recent Gallery
         image:
         block_text:
-        section: blog
+        section: gallery
         menu:
         html:   
         count: 1 
