@@ -6,8 +6,7 @@ menu:
 img: 2111.jpg
 weight: 
 lead: This is the lead 
-
-
+---
 Edro mission has extended its wings by using media as a tool to promote and to accomplish its visions.
 
 Audio Music albums such as VALLAMAIYAL NIRAPUM DEVA, 
