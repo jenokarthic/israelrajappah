@@ -41,22 +41,22 @@ mid:
         count: 1
     main:
         title: Recent Events
-        section: events
+        section: gallery
         count: 3 
 trail:
     left:
         title: Recent Blog
         image:
         block_text:
-        section:  
+        section: events 
         menu:
         html:   
-        count: 1 
+        count: 3 
     mid:
         title: Our Community
         image:
         block_text:
-        section: gallery
+        section: 
         menu:
         html:   
         count: 5 
@@ -64,7 +64,7 @@ trail:
         title: Recent Videos
         image:
         block_text:
-        section: videos
+        section: 
         menu:
         html:   
         count: 5
