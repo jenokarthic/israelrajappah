@@ -35,7 +35,7 @@ mid:
         title: Our Gallery
         image:
         block_text:
-        section: gallery
+        section: videos
         menu:
         html:    
         count: 1
