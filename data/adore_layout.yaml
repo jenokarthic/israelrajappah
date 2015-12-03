@@ -38,7 +38,7 @@ mid:
         section: gallery
         menu:
         html:    
-        count: 1
+        count: 3
     main:
         title: Recent Events
         section: events
