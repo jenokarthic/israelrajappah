@@ -48,7 +48,7 @@ trail:
         title: Recent Blog
         image:
         block_text:
-        section: gallery 
+        section:  
         menu:
         html:   
         count: 1 
