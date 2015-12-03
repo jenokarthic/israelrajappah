@@ -35,20 +35,20 @@ mid:
         title: Our Gallery
         image:
         block_text:
-        section: videos
+        section: gallery
         menu:
         html:    
-        count: 5
+        count: 1
     main:
         title: Recent Events
         section: events
         count: 3 
 trail:
     left:
-        title: Recent Gallery
+        title: Recent Blog
         image:
         block_text:
-        section: 
+        section: blog
         menu:
         html:   
         count: 1 
@@ -56,15 +56,15 @@ trail:
         title: Our Community
         image:
         block_text:
-        section: 
+        section: blog
         menu:
         html:   
-        count: 1 
+        count: 5 
     right:
         title: Recent Videos
         image:
         block_text:
-        section: gallery
+        section: videos
         menu:
         html:   
         count: 5
