@@ -38,7 +38,7 @@ mid:
         section: videos
         menu:
         html:    
-        count: 1
+        count: 5
     main:
         title: Recent Events
         section: events
