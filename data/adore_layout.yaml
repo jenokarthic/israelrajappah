@@ -59,7 +59,7 @@ trail:
         section: gallery
         menu:
         html:   
-        count: 5 
+        count: 1 
     right:
         title: Recent Videos
         image:
