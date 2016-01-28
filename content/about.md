@@ -5,7 +5,7 @@ author: admin
 menu: main
 img: 2111.jpg
 weight: -100
-lead: This is the lead 
+lead: This is the le
 ---
 Born in a traditional Christian family, as the 11 th child to her parents, Rev.Juliet Jasline was raised in a orphanage in Hindustan bible institute.
 She accepted the Lord Jesus as her savior and had committed her life for him since 8 yrs of age.
