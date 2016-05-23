@@ -15,7 +15,7 @@ To make it easier for the brethren to support this ministry and charity mission 
 below our bank details:
  
  
-<a href="indiaac"><h1>India Account</a></h1> 
+<a href="http://www.israelrajappah.com/indiaac"><h1>India Account</a></h1> 
  
 <a href="ukac"><h1>United Kingdom Account</h1></a>
 
