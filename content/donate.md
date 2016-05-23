@@ -15,43 +15,8 @@ To make it easier for the brethren to support this ministry and charity mission 
 below our bank details:
  
  
- <kbd><a href="indiaac"><h1>India Account</a></h1></kbd>  
- <kbd>United Kingdom Account</kbd> 
- <kbd>United States of America Account</kbd>
------------------------------------------------------------------------------------------------------------------------
+<a href="indiaac"><h1>India Account</a></h1> 
+ 
+<a href="ukac"><h1>United Kingdom Account</h1></a>
 
-INDIA  
-
-Name : Israel Jothi Rajappah
-Account number : 10070845985
-BANK: STATE BANK OF INDIA
-BRANCH: VADAVALLI COIMBATORE
-IFSC : SBIN005740
-
--------------------------------------------------------------------------------------------------------------------
-
-UNITED KINGDOM
-
-NAME  :   ISRAEL J. RAJAPPAH
-
-THE ROYAL BANK OF SCOTLAND PLC.,
-
-S.B.ACCOUNT NO :  10101630
-
-SORT CODE NO    :   16 18 18
-
--------------------------------------------------------------------------------------------------------------------
-
-UNITED STATES OF AMERICA
-
-NAME   :    ISRAEL JOTHI RAJAPPAH ISRAEL
-
-CAPITAL ONE BANK
-
-FLUSHING MAIN STREET
-
-NEW YORK 
-
-CHECKING ACCOUNT NO :  1378418077
-
-ABA (Routing No)                :  021407912  
+<a href="usaac">United States of America Account</h1></a>
