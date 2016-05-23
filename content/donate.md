@@ -13,7 +13,7 @@ By your earnest Prayers and by your cheerful financial contributions:
 To make it easier for the brethren to support this ministry and charity mission works we give
 
 below our bank details:
-
+ Click for India Account
 -----------------------------------------------------------------------------------------------------------------------
 
 INDIA  
