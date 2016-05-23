@@ -15,7 +15,7 @@ To make it easier for the brethren to support this ministry and charity mission 
 below our bank details:
  
  
- <i class="icon-hdd"></i> Click for India Account
+ <kbd>Click for India Account</kbd>
 -----------------------------------------------------------------------------------------------------------------------
 
 INDIA  
