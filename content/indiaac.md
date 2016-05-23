@@ -9,7 +9,7 @@ lead: This is the lead
 ---
 HOW YOU CAN SUPPORT THIS MINISTRY & MISSION CHARITY WORKS ?
  
- <kbd><a href="http://www.israelrajappah.com/indiaac.md"><h1>India Account</a></h1></kbd>  
+ <kbd><a href="indiaac"><h1>India Account</a></h1></kbd>  
  <kbd>United Kingdom Account</kbd> 
  <kbd>United States of America Account</kbd>
 -----------------------------------------------------------------------------------------------------------------------
