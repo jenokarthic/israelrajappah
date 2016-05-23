@@ -87,9 +87,7 @@ footer:
     right:        
         title: Our Ministry
         image:
-        block_text: Edro mission has 
-		extended its wings by using media 
-		as a tool to promote and to accomplish its visions.
+        block_text: Edro mission has extended its wings by using media as a tool to promote and to accomplish its visions.
         section:
         menu:
         html: <a href="media">Read more...</a>
