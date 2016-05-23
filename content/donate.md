@@ -19,4 +19,4 @@ below our bank details:
  
 <a href="ukac"><h1>United Kingdom Account</h1></a>
 
-<a href="usaac">United States of America Account</h1></a>
+<a href="usaac"><h1>United States of America Account</h1></a>
