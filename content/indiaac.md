@@ -1,9 +1,10 @@
 ---
 date: 2019-07-01T12:43:16+05:30
-title: Donate
+title: India Bank Account
 author: admin
 menu: 
-weight: 1000
+img: 
+weight: 
 lead: This is the lead 
 ---
 HOW YOU CAN SUPPORT THIS MINISTRY & MISSION CHARITY WORKS ?
@@ -22,4 +23,3 @@ BRANCH: VADAVALLI COIMBATORE
 IFSC : SBIN005740
 
 -------------------------------------------------------------------------------------------------------------------
-
