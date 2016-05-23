@@ -1,8 +1,7 @@
-flex-caption strong {
+.flex-caption strong {
     color: #fff;
     display: block;
     font-family: -moz-fixed,cursive;
     font-size: 27px;
     font-weight: 400;
-    margin-bottom: 18px;
-};
+    margin-bottom: 18px;}
