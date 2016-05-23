@@ -15,7 +15,7 @@ To make it easier for the brethren to support this ministry and charity mission 
 below our bank details:
  
  
- <kbd>India Account</kbd>  <kbd>United Kingdom Account</kbd>
+ <kbd>India Account</kbd>  <kbd>United Kingdom Account</kbd> <kbd>UNITED STATES OF AMERICA</kbd>
 -----------------------------------------------------------------------------------------------------------------------
 
 INDIA  
