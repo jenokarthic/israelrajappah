@@ -18,5 +18,34 @@ slides:
     slideTitle: 
     slideSubtitle: 
     linkTo: 
-    linkText: 
-  
+    linkText:
+  - name: slide 4
+    img: slider_two.jpg
+    slideTitle: 
+    slideSubtitle: 
+    linkTo: 
+    linkText:	
+  - name: slide 5
+    img: slider_three.jpg
+    slideTitle: 
+    slideSubtitle: 
+    linkTo: 
+    linkText:
+  - name: slide 6
+    img: slider5.jpg
+    slideTitle: 
+    slideSubtitle: 
+    linkTo: 
+    linkText:
+  - name: slide 7
+    img: slider6.jpg
+    slideTitle: Ephphatha Divine Revival OutReach
+    slideSubtitle: EDRO MISSION - INDIA
+    linkTo: 
+    linkText:
+  - name: slide 8
+    img: slider_8.jpg
+    slideTitle: Rev.Dr. Israel j. Rajappah D. D.,
+    slideSubtitle: Founder & President
+    linkTo: 
+    linkText:
