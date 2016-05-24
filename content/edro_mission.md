@@ -8,15 +8,26 @@ weight:
 lead: This is the lead 
 ---
 Our vision and mission 
-> - Reaching the unreached
-> - Church Planting 
-> - Youth and children’s Ministry
-> - Literature service
-> - Audio /video Ministry
-> - Adults Ministry & Family Counselling 
-> - Ladies Ministry & Arise and thrush Revival Camps & Home Meeting 
-> - Bible  school , seminars , &Training for Ministry
-> - Ministry among students 
-> - Hospital & village Ministry
-> - social & Home  For The Destitute 
+
+####Reaching the unreached
+
+####Church Planting 
+
+####Youth and children’s Ministry
+
+####Literature service
+
+####Audio /video Ministry
+
+####Adults Ministry & Family Counselling 
+
+####Ladies Ministry & Arise and thrush Revival Camps & Home Meeting
+ 
+####Bible  school , seminars , &Training for Ministry
+
+####Ministry among students
+ 
+####Hospital & village Ministry
+
+####social & Home  For The Destitute 
 
