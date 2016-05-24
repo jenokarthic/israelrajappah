@@ -4,14 +4,14 @@ navbaroverlay: false
 background: 
 lead:
     left:
-        title: Vision 
+        title: Vision & Mission
         image: images/blog/vission.jpg
         block_text: Therefore go and make disciples of all nations(Mattews 28:19) Our vision is to reach the unreached and to conquer the world with the Love of Christ to execute the love of Christ not by words but by Action.
         section:
         tag:
         menu: 
         html: 
-        link: 
+        link: edro_mission
     mid:
         title: Mission
         image: images/blog/times.jpg 
