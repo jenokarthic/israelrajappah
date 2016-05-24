@@ -7,6 +7,8 @@ img: front1.jpg
 weight: -100
 lead: This is the le
 ---
+Welcome to EDRO MISSION INDIA
+----------------
 
 **EPHPHTHA DIVINE REVIVAL OUTREACH INDIA** Shortly known as EDRO MISSION INDIA
   Was founded in the year 1996 by  Bishop Dr.ISRAEL IOTHI RAJAPPAH and his beloved Wife a dynamic Divine vision to break open the doors of GOD’S deliverance and  blessings hi The lives of the under Privileged and unreached people of This great nation ,who are sihing  The dankest corners of hopeless by preaching and demonstrating the power of The Gospel of our Lord and savior Jesus Christ in Their body , mind and soul .
