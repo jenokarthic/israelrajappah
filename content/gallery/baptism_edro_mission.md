@@ -4,13 +4,13 @@ title: Baptism Service
 key: Meeting Events
 lead: test this is lead
 img: baptism_6.jpg
-thumbimg: babtism_6.jpg
+thumbimg: baptism_6.jpg
 ---
-![our babtism](http://www.israelrajappah.com/images/gallery/babtism/babtism_1.jpg)
-![our babtism](http://www.israelrajappah.com/images/gallery/babtism/babtism_2.jpg)
-![our babtism](http://www.israelrajappah.com/images/gallery/babtism/babtism_3.jpg)
-![our babtism](http://www.israelrajappah.com/images/gallery/babtism/babtism_4.jpg)
-![our babtism](http://www.israelrajappah.com/images/gallery/babtism/babtism_5.jpg)
+![our baptism](http://www.israelrajappah.com/images/gallery/baptism/baptism_1.jpg)
+![our baptism](http://www.israelrajappah.com/images/gallery/baptism/baptism_2.jpg)
+![our baptism](http://www.israelrajappah.com/images/gallery/baptism/baptism_3.jpg)
+![our baptism](http://www.israelrajappah.com/images/gallery/baptism/baptism_4.jpg)
+![our baptism](http://www.israelrajappah.com/images/gallery/baptism/baptism_5.jpg)
 baptism service
 
 <!--more-->
