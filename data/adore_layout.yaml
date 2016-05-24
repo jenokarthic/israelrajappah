@@ -90,6 +90,7 @@ footer:
         block_text: 
         section: Ministry
         menu:
-        html: 
+        html:
+		count: 5
 bottom:
     menu: main            
