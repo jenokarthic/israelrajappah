@@ -2,8 +2,8 @@
 date: 2019-09-01T12:43:16+05:30
 title: Divine school
 author: admin
-menu: main
-weight: 700
+menu: 
+weight: 
 lead: This is the lead 
 ---
 Started in the year 1999 with only 5 children, DNPS, aims to give free education to the children from unprivileged circumstances.
