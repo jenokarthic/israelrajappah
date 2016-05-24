@@ -9,25 +9,25 @@ lead: This is the lead
 ---
 Our vision and mission 
 
-####Reaching the unreached
+#### Reaching the unreached
 
-####Church Planting 
+#### Church Planting 
 
-####Youth and children’s Ministry
+#### Youth and children’s Ministry
 
-####Literature service
+#### Literature service
 
-####Audio /video Ministry
+#### Audio /video Ministry
 
-####Adults Ministry & Family Counselling 
+#### Adults Ministry & Family Counselling 
 
-####Ladies Ministry & Arise and thrush Revival Camps & Home Meeting
+#### Ladies Ministry & Arise and thrush Revival Camps & Home Meeting
  
-####Bible  school , seminars , &Training for Ministry
+#### Bible  school , seminars , &Training for Ministry
 
-####Ministry among students
+#### Ministry among students
  
-####Hospital & village Ministry
+#### Hospital & village Ministry
 
-####social & Home  For The Destitute 
+#### social & Home  For The Destitute 
 
