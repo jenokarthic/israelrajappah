@@ -3,7 +3,7 @@ author: null
 categories: testing123
 date: null
 endDate: null
-img: child.jpg
+img: children.jpg
 startDate: null
 tags: null
 title: Children care Ministry
