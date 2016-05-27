@@ -1,5 +1,5 @@
 ---
-date: 2015-08-02T19:58:41+05:30
+date: 2014-08-02T19:58:41+05:30
 title: Bishop ordination
 key: Events
 lead: test this is lead
