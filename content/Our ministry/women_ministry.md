@@ -1,12 +1,12 @@
 ---
 author: null
 categories: testing123
-date: null
+date: 2015-01-07T15:35:03+05:30
 endDate: null
 img: women.jpg
 startDate: null
 tags: null
-title: Womens Ministry
+title: Arise & Thrush (Micah 4:13) – Daughter of Zion
 venue: null
 video: null
 ---
