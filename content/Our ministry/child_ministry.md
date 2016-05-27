@@ -1,7 +1,7 @@
 ---
 author: null
 categories: testing123
-date: null
+date: 2015-01-08T15:35:03+05:30
 endDate: null
 img: children.jpg
 startDate: null
@@ -11,10 +11,8 @@ venue: null
 video: null
 ---
 
-We have always strongly felt That The Gospel must be presented along with social service of same kind and are children’s nursery school him crèche stands testimony to our faith. 
+Teach them to walk and practise in the light of the word of God 
 <!--more-->
-    The set up is meant for children from poor backgrounds and at present we have to children hi it we teach them o salvation at a young age.
-These children need uniform , books , mid day  meals  and the like . the schools 
-It self needs furniture . we need spanrors who can support one child by giving us Dollar 40 or English pounds 25 or Euro 30 or Rs 250  per month . we also have Sunday school , vacation bible schools camps and retreats for the children to get them to know and understand the them to walk and praetise hi The light of the world of GOD.
+We have always strongly felt that the Gospel must be presented along with social service of some kind and our children’s Nursery school cum crèche stands testimony to our faith. This set up is meant for Children from poor backgrounds and at present we have 60 children in it. We teach them to salvation at a young age. These children need uniform, books, mid-day meals and the like. The School itself needs furniture. We need sponsors who can support one child by giving US Dollar 40 (or) English Pounds 25 (or) Euro 30 or Rs.250/- per month. We also have Sunday Schools, Vacation Bible Schools, Camps and retreats for the children to get them to know and understand the true love of God and to teach them to walk and practise in the light of the word of God. 
 
 ......

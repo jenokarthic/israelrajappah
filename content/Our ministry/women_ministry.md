@@ -11,16 +11,17 @@ venue: null
 video: null
 ---
 
-Arise & thresh- (mical 4:13) 
-   Arise & thresh danghlil A Non church biased ministry with a vigm to steer under priveledged  woman to Christ as per her calling Rev Juliet jashin , ministers in various revival camps meetings to encoueage & guide woman to do miraculose  things for Christ . 
+Arise & thresh- (mical 4:13)A non Church biased ministry with a vision to steer under privileged women to Christ.
+ 
 <!--more-->
-The vision not only an compasses the spirimal but also to build them socially spiritual gnidelines , prachcal , apphicahins  counsely  & ministry brang  are in lord tocus of the ministry.
-
-Arise & thresh
+As per her calling Rev. Juliet Jasline Rajappah, Ministers in various revival camps and meetings to encourage and guide women to do miraculous things for Christ.
 
 
-   As per the virgin given by our Lord Jesus Christ . to Rev Juliet jasmine , arise & theresh is a Revival ministry especially for the woman.
-   This ministry envirms woman who are confided to be the wealces vessels in the sociery to become the stronger woricese in the head of the Lord this ministry – is a Non church hriased which encourage.
+The vision not only encompasses the spiritual attire but also to build them socially. Spiritual guidelines, practical applications, counselling and ministry are in the core focus of the Ministry. 
+
+
+As per the Vision given by our Lord Jesus Christ to Rev. Juliet Jasline Arise & Thrush is a revival Ministry especially to the women. This Ministry envisions women who are considered to be the weaker vessels in the society to become the stronger workers in the field of the Lord. This Ministry is a Non-Church based which encourages the women to do greater things for the Lord.
+
 
 
 ......
