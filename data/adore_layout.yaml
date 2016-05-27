@@ -40,8 +40,8 @@ mid:
         html:    
         count: 4
     main:
-        title: Recent Events
-        section: events
+        title: Recent Videos
+        section: videos
         count: 3 
 trail:
     main:
