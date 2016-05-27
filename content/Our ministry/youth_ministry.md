@@ -1,7 +1,7 @@
 ---
 author: null
 categories: testing123
-date: null
+date: 2015-01-09T15:35:03+05:30
 endDate: null
 img: youth.jpg
 startDate: null
