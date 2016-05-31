@@ -4,7 +4,7 @@ slides:
   - name: slide 1
     img: slider_1.jpg
     slideTitle: 
-    slideSubtitle: Rev. Dr. Israel J Rajappah & family
+    slideSubtitle: 
     linkTo: contact
     linkText: 
   - name: slide 2
@@ -14,9 +14,9 @@ slides:
     linkTo: 
     linkText: 
   - name: slide 3
-    img: slider4.jpg
-    slideTitle: 
-    slideSubtitle: 
+    img: slider_3.jpg
+    slideTitle: Rev. Dr. Israel J Rajappah
+    slideSubtitle: Founder
     linkTo: 
     linkText:
   - name: slide 4
