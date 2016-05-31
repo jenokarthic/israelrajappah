@@ -2,50 +2,62 @@ title: What People say about us
 subtitle:  Our customer love us
 slides: 
   - name: slide 1
-    img: slider_one.jpg
-    slideTitle: Edro Mission
-    slideSubtitle: Rev. Israel J Rajappah & family
-    linkTo: contact
+    img: slider_1.jpg
+    slideTitle:
+    slideSubtitle:
+    linkTo: about
     linkText: 
   - name: slide 2
-    img: slider3.jpg
+    img: slider_2.jpg
     slideTitle: Mattews 28:19
     slideSubtitle: Therefore go and make disciples of all nations
     linkTo: 
     linkText: 
   - name: slide 3
-    img: slider4.jpg
-    slideTitle: 
-    slideSubtitle: 
+    img: slider_3.jpg
+    slideTitle: Rev.Dr. Israel j. Rajappah D. D., 
+    slideSubtitle: Founder & President
     linkTo: 
     linkText:
   - name: slide 4
-    img: slider_two.jpg
-    slideTitle: 
+    img: slider_4.jpg
+    slideTitle: Rev.(Mrs) JULIET JASLINE RAJAPPAH
     slideSubtitle: 
     linkTo: 
     linkText:	
   - name: slide 5
-    img: slider_three.jpg
+    img: slider_5.jpg
     slideTitle: 
     slideSubtitle: 
     linkTo: 
     linkText:
   - name: slide 6
-    img: slider5.jpg
+    img: slider_6.jpg
     slideTitle: 
     slideSubtitle: 
     linkTo: 
     linkText:
   - name: slide 7
-    img: slider7.jpg
-    slideTitle: Ephphatha Divine Revival OutReach
-    slideSubtitle: EDRO MISSION - INDIA
+    img: slider_7.jpg
+    slideTitle: 
+    slideSubtitle: 
     linkTo: 
     linkText:
   - name: slide 8
     img: slider_8.jpg
-    slideTitle: Rev.Dr. Israel j. Rajappah D. D.,
-    slideSubtitle: Founder & President
+    slideTitle: 
+    slideSubtitle:
+    linkTo: 
+    linkText:
+  - name: slide 9
+    img: slider_9.jpg
+    slideTitle: 
+    slideSubtitle:
+    linkTo: 
+    linkText:
+ - name: slide 10
+    img: slider_10.jpg
+    slideTitle: Thou crownest the year with thy goodness
+    slideSubtitle: Psalms 65:11
     linkTo: 
     linkText:
