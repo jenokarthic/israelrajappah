@@ -6,7 +6,7 @@ categories:
 date: 2016-05-29T15:40:16+05:30
 endDate: 2016-05-31T23:59:00Z
 img: null
-startDate: 2015-05-29T00:00:00Z
+startDate: 2016-05-29T00:00:00Z
 tags: null
 title: Special Meeting
 venue: Valparai, CSI Church.
