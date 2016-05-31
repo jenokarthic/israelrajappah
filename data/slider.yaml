@@ -16,7 +16,7 @@ slides:
   - name: slide 3
     img: slider_3.jpg
     slideTitle: Rev. Dr. Israel J Rajappah
-    slideSubtitle: Founder - EDRO MISSION INDIA
+    slideSubtitle: Founder & President
     linkTo: 
     linkText:
   - name: slide 4
@@ -45,7 +45,13 @@ slides:
     linkText:
   - name: slide 8
     img: slider_8.jpg
-    slideTitle: Rev.Dr. Israel j. Rajappah D. D.,
-    slideSubtitle: Founder & President
+    slideTitle: 
+    slideSubtitle: 
+    linkTo: 
+    linkText:
+  - name: slide 9
+    img: slider_9.jpg
+    slideTitle: 
+    slideSubtitle: 
     linkTo: 
     linkText:
