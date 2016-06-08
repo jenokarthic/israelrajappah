@@ -3,7 +3,7 @@ author: null
 categories: testing123
 date: 2015-01-10T15:35:03+05:30
 endDate: null
-img: image_1.jpg
+img: times.jpg
 startDate: null
 tags: null
 title: Church Ministry
