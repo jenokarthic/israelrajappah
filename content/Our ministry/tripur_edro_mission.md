@@ -6,7 +6,7 @@ endDate: null
 img: tri.jpg
 startDate: null
 tags: null
-title: Tripur Branch
+title: Tripur Branch Church
 venue: null
 video: null
 ---
