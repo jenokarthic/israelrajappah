@@ -18,5 +18,5 @@ Deliverance Ministry
 Gospel Outreach Ministry
 ![Divine Nersery School](http://www.israelrajappah.com/images/Our ministry/open_air.jpg)
 Baptism Ministry
-![Divine Nersery School](http://www.israelrajappah.com/images/Our ministry/batism.jpg)
+![Divine Nersery School](http://www.israelrajappah.com/images/Our ministry/baptism.jpg)
 ......
