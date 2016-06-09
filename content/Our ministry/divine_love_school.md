@@ -13,6 +13,6 @@ video: null
 
 Edro Mission School
 <!--more-->
-
+![Divine Nersery School](http://www.israelrajappah.com/images/Our ministry/schoole.jpg)
 
 ......
