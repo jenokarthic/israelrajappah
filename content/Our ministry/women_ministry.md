@@ -23,5 +23,6 @@ The vision not only encompasses the spiritual attire but also to build them soci
 As per the Vision given by our Lord Jesus Christ to Rev. Juliet Jasline Arise & Thrush is a revival Ministry especially to the women. This Ministry envisions women who are considered to be the weaker vessels in the society to become the stronger workers in the field of the Lord. This Ministry is a Non-Church based which encourages the women to do greater things for the Lord.
 
 
+![Divine Nersery School](http://www.israelrajappah.com/images/Our ministry/womene.jpg)
 
 ......
