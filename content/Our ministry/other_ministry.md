@@ -6,7 +6,7 @@ endDate: null
 img: open_air.jpg
 startDate: null
 tags: null
-title: Other Ministry Ministry
+title: Other Ministry
 venue: null
 video: null
 ---
