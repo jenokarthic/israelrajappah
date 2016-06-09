@@ -6,7 +6,7 @@ endDate: null
 img: school.jpg
 startDate: null
 tags: null
-title: Divine Nursery & Primary School
+title: Divine Nursery & Primary School Day Care Centre
 venue: null
 video: null
 ---
