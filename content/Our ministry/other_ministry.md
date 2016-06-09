@@ -13,6 +13,10 @@ video: null
 
 Baptism, healing & Deliverance, Open Air Gospel Meeting etc
 <!--more-->
-
-
+Deliverance Ministry
+![Divine Nersery School](http://www.israelrajappah.com/images/Our ministry/deliverance.jpg)
+Gospel Outreach Ministry
+![Divine Nersery School](http://www.israelrajappah.com/images/Our ministry/open_air.jpg)
+Baptism Ministry
+![Divine Nersery School](http://www.israelrajappah.com/images/Our ministry/batism.jpg)
 ......
