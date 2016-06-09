@@ -6,7 +6,7 @@ endDate: null
 img: school.jpg
 startDate: null
 tags: null
-title: Divine Love School
+title: Divine Nursery & Primary School
 venue: null
 video: null
 ---
