@@ -6,7 +6,7 @@ endDate: null
 img: women.jpg
 startDate: null
 tags: null
-title: Arise & Thrush (Micah 4:13) – Daughter of Zion
+title: Arise & Thresh (Micah 4:13) – Daughter of Zion
 venue: null
 video: null
 ---
