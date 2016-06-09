@@ -6,6 +6,7 @@ lead: test this is lead
 img: image_1.jpg
 thumbimg: image_1.jpg
 ---
+![leper colony ministry](http://www.israelrajappah.com/images/gallery/lep/image_0.jpg)
 ![leper colony ministry](http://www.israelrajappah.com/images/gallery/lep/image_2.jpg)
 ![leper colony ministry](http://www.israelrajappah.com/images/gallery/lep/image_3.jpg)
 ![leper colony ministry](http://www.israelrajappah.com/images/gallery/lep/image_4.jpg)
