@@ -17,5 +17,6 @@ We toil in the hot sun to take the gospel to the downtrodden as Jesus did. We di
 
 If the needs of their family are met, they will be doing the Lord’s work without worries. James 2:26 states faith without deed is dead. As children of God, bound by His eternal love, the mission renders various social activities.   
 
-
+![Divine Nersery School](http://www.israelrajappah.com/images/Our ministry/sociale.jpg)
+......
 ......
