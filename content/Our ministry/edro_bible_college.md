@@ -14,5 +14,5 @@ video: null
 Edro Bible College
 <!--more-->
 
-
+![Divine Nersery School](http://www.israelrajappah.com/images/Our ministry/biblee.jpg)
 ......
