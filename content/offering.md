@@ -1,12 +1,12 @@
 ---
 date: 2019-07-01T12:43:16+05:30
-title: Donate
+title: Partnership
 author: admin
 menu: main
 weight: 1000
 lead: This is the lead 
 ---
-HOW YOU CAN SUPPORT THIS MINISTRY & MISSION CHARITY WORKS ?
+HOW YOU CAN PARTNERSHIP WITH THIS MINISTRY & MISSION CHARITY WORKS ?
 
 By your earnest Prayers and by your cheerful financial contributions:
 
